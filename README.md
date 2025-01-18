@@ -10,7 +10,7 @@
 
 <h2>💻Descrição</h2>
 
-Projeto/prototipo 01 desenvolvido como uma página web para portifólio profissional contendo fotos, apresentação, biografia, campanhas publicitárias e contato.
+Projeto/prototipo 01 desenvolvido como uma página web para portfólio profissional contendo fotos, apresentação, biografia, campanhas publicitárias e contato.
 
 <h2>💻Funcionalidades</h2>
 
