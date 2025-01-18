@@ -4,7 +4,7 @@
   Modelo Anna Bella    
 </h1> 
 
-#### Portifólio profissional para uma modelo fictícia.  
+#### Página web profissional para uma modelo fictícia.  
 
 </div>
 
