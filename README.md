@@ -1,16 +1,16 @@
 <div align="center">
   
 <h1> 
-  Página Web - Anna Bella modelo    
+  Modelo Anna Bella    
 </h1> 
 
-Página web profissional para uma modelo fictícia.  
+#### Portifólio profissional para uma modelo fictícia.  
 
 </div>
 
 <h2>💻Descrição</h2>
 
-Projeto 01 desenvolvido como uma página web profissional. O prototipo possui página principal com a apresentação da modelo, biografia, campanhas publicitárias e contato.
+Projeto/prototipo 01 desenvolvido como uma página web para portifólio profissional contendo fotos, apresentação, biografia, campanhas publicitárias e contato.
 
 <h2>💻Funcionalidades</h2>
 
